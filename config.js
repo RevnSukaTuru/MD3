@@ -45,7 +45,7 @@ global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'BY V BOTZ'
 global.author = `VanzzM`
 global.wm = 'VBOTZ-' //Nama Bot
-global.watermark = wm
+global.watermark = @VBOTZ
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://instagram.com/vanzzxyt_official'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
